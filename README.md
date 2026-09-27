@@ -30,40 +30,49 @@
 ### 🛠️ Tech Stack
 
 <div align="center">
-  <!-- Core Stack Icons with Native Hover Tooltips -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript — Core Dynamic Language"><img src="https://skillicons.dev/icons?i=js" width="40" height="40" alt="JavaScript" /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript — Type-Safe Scalable JavaScript"><img src="https://skillicons.dev/icons?i=ts" width="40" height="40" alt="TypeScript" /></a>
-  <a href="https://react.dev/" title="React — Declarative Component Architecture"><img src="https://skillicons.dev/icons?i=react" width="40" height="40" alt="React" /></a>
-  <a href="https://nextjs.org/" title="Next.js — Full-Stack React Framework & SSR"><img src="https://skillicons.dev/icons?i=nextjs" width="40" height="40" alt="Next.js" /></a>
-  <a href="https://angular.dev/" title="Angular — Comprehensive Web Application Platform"><img src="https://skillicons.dev/icons?i=angular" width="40" height="40" alt="Angular" /></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS — Rapid Utility-First Modern Styling"><img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Tailwind CSS" /></a>
-  <a href="https://nodejs.org/" title="Node.js — High-Throughput Asynchronous Runtime"><img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /></a>
-  <a href="https://expressjs.com/" title="Express.js — Lightweight Node Web Framework"><img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express" /></a>
-  <a href="https://nestjs.com/" title="NestJS — Modular Enterprise TypeScript Architecture"><img src="https://skillicons.dev/icons?i=nestjs" width="40" height="40" alt="NestJS" /></a>
-  <a href="https://go.dev/" title="Go (Golang) — Fast, Concurrent Backend Services"><img src="https://skillicons.dev/icons?i=go" width="40" height="40" alt="Go" /></a>
-  <a href="https://graphql.org/" title="GraphQL — Flexible Query Language & Schema APIs"><img src="https://skillicons.dev/icons?i=graphql" width="40" height="40" alt="GraphQL" /></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL — Robust Relational Database"><img src="https://skillicons.dev/icons?i=postgres" width="40" height="40" alt="PostgreSQL" /></a>
-  <a href="https://supabase.com/" title="Supabase — Open-Source Firebase Alternative & PostgreSQL"><img src="https://skillicons.dev/icons?i=supabase" width="40" height="40" alt="Supabase" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB — Scalable Document-Oriented NoSQL Database"><img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /></a>
-  <a href="https://www.prisma.io/" title="Prisma — Type-Safe ORM & Database Toolkit"><img src="https://skillicons.dev/icons?i=prisma" width="40" height="40" alt="Prisma" /></a>
-  <a href="https://www.docker.com/" title="Docker — Containerization & Portable Environments"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
-  <a href="https://git-scm.com/" title="Git — Distributed Version Control System"><img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.figma.com/" title="Figma — Collaborative Interface & Prototyping Design"><img src="https://skillicons.dev/icons?i=figma" width="40" height="40" alt="Figma" /></a>
-</div>
 
-<div align="center" style="margin-top: 14px;">
+<h3>🌐 Frontend & Core Languages</h3>
+<p>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript — Core Dynamic Language"><img src="https://skillicons.dev/icons?i=js" width="52" height="52" alt="JavaScript" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" title="TypeScript — Type-Safe Scalable JavaScript"><img src="https://skillicons.dev/icons?i=ts" width="52" height="52" alt="TypeScript" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://react.dev/" title="React — Declarative Component Architecture"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://nextjs.org/" title="Next.js — Full-Stack React Framework & SSR"><img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" alt="Next.js" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://angular.dev/" title="Angular — Comprehensive Web Platform"><img src="https://skillicons.dev/icons?i=angular" width="52" height="52" alt="Angular" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" title="Tailwind CSS — Rapid Modern Utility Styling"><img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS" style="margin: 6px;" /></a>
+</p>
 
-<!-- AI & Specialized Framework Badges with Hover Tooltips -->
-<a href="https://www.langchain.com/" title="LangChain — LLM Chains & Autonomous Agent Orchestration"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" /></a>
-<a href="https://www.pinecone.io/" title="Pinecone — Managed Vector Database for Semantic Search & RAG"><img src="https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white" alt="Pinecone" /></a>
-<a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" title="RAG — Retrieval-Augmented Generation Architecture"><img src="https://img.shields.io/badge/RAG_Pipelines-4B0082?style=flat-square&logo=semantic-web&logoColor=white" alt="RAG" /></a>
-<a href="https://n8n.io/" title="n8n — Workflow Automation & AI Pipeline Integrations"><img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" /></a>
-<a href="https://greensock.com/gsap/" title="GSAP — Professional-Grade JavaScript Web Animations"><img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" /></a>
-<a href="https://motion.dev/" title="Framer Motion — Production-Ready Declarative React Animations"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" /></a>
-<a href="https://neon.tech/" title="Neon — Serverless Distributed Postgres with Branching"><img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=flat-square&logo=neon&logoColor=black" alt="Neon" /></a>
-<a href="https://www.better-auth.com/" title="Better Auth — Comprehensive TypeScript Authentication & Sessions"><img src="https://img.shields.io/badge/Better_Auth-000000?style=flat-square&logo=betterauth&logoColor=white" alt="Better Auth" /></a>
-<a href="https://socket.io/" title="Socket.IO — Real-Time Bidirectional Event Engine"><img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" /></a>
-<a href="https://stripe.com/" title="Stripe — Secure Payments & Billing Infrastructure"><img src="https://img.shields.io/badge/Stripe-626CD9?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" /></a>
+<h3>⚙️ Backend, Systems & Databases</h3>
+<p>
+  <a href="https://nodejs.org/" title="Node.js — Asynchronous Event-Driven JS Runtime"><img src="https://skillicons.dev/icons?i=nodejs" width="52" height="52" alt="Node.js" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://expressjs.com/" title="Express.js — Lightweight Node Web Framework"><img src="https://skillicons.dev/icons?i=express" width="52" height="52" alt="Express" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://nestjs.com/" title="NestJS — Modular Enterprise TypeScript Architecture"><img src="https://skillicons.dev/icons?i=nestjs" width="52" height="52" alt="NestJS" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://go.dev/" title="Go (Golang) — High-Performance Concurrent Systems"><img src="https://skillicons.dev/icons?i=go" width="52" height="52" alt="Go" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://graphql.org/" title="GraphQL — Flexible Query Language & Schema APIs"><img src="https://skillicons.dev/icons?i=graphql" width="52" height="52" alt="GraphQL" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" title="PostgreSQL — Advanced Relational Database"><img src="https://skillicons.dev/icons?i=postgres" width="52" height="52" alt="PostgreSQL" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://supabase.com/" title="Supabase — Open-Source Firebase Alternative & PostgreSQL"><img src="https://skillicons.dev/icons?i=supabase" width="52" height="52" alt="Supabase" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" title="MongoDB — Scalable Document-Oriented NoSQL Database"><img src="https://skillicons.dev/icons?i=mongodb" width="52" height="52" alt="MongoDB" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.prisma.io/" title="Prisma — Type-Safe ORM & Database Toolkit"><img src="https://skillicons.dev/icons?i=prisma" width="52" height="52" alt="Prisma" style="margin: 6px;" /></a>
+</p>
+
+<h3>🧠 AI, RAG & Autonomous Agents</h3>
+<p>
+  <a href="https://www.langchain.com/" title="LangChain — LLM Chains & Agent Orchestration"><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="32" alt="LangChain" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.pinecone.io/" title="Pinecone — Managed Vector Database for Semantic Search & RAG"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" height="32" alt="Pinecone" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://en.wikipedia.org/wiki/Retrieval-augmented_generation" title="RAG — Retrieval-Augmented Generation Architecture"><img src="https://img.shields.io/badge/RAG_Pipelines-4B0082?style=for-the-badge&logo=semantic-web&logoColor=white" height="32" alt="RAG" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://n8n.io/" title="n8n — Workflow Automation & AI Agent Chains"><img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" height="32" alt="n8n" style="margin: 5px;" /></a>
+</p>
+
+<h3>✨ UI Motion, Cloud & Security Tools</h3>
+<p>
+  <a href="https://greensock.com/gsap/" title="GSAP — Professional-Grade JavaScript Web Animations"><img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" height="32" alt="GSAP" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://motion.dev/" title="Framer Motion — Production-Ready Declarative React Animations"><img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" height="32" alt="Framer Motion" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://neon.tech/" title="Neon — Serverless Distributed Postgres with Branching"><img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=neon&logoColor=black" height="32" alt="Neon" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.better-auth.com/" title="Better Auth — Comprehensive TypeScript Authentication & Sessions"><img src="https://img.shields.io/badge/Better_Auth-000000?style=for-the-badge&logo=betterauth&logoColor=white" height="32" alt="Better Auth" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.docker.com/" title="Docker — Containerization & Portable Environments"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" alt="Docker" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://git-scm.com/" title="Git — Distributed Version Control System"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://www.figma.com/" title="Figma — Interface & Prototyping Design"><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="32" alt="Figma" style="margin: 5px;" /></a> &nbsp;&nbsp;
+  <a href="https://socket.io/" title="Socket.IO — Real-Time Bidirectional Event Engine"><img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" height="32" alt="Socket.IO" style="margin: 5px;" /></a>
+</p>
 
 </div>
 
@@ -82,13 +91,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mohand-Hatem&show_icons=true&bg_color=0d1117&text_color=c9d1d9&title_color=2ec4b6&icon_color=2ec4b6&border_color=30363d&count_private=true" width="49%" alt="Mohand's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohand-Hatem&theme=dark&background=0d1117&border=30363d&stroke=2ec4b6&ring=2ec4b6&fire=2ec4b6&currStreakLabel=2ec4b6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9" width="49%" alt="Mohand's Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Mohand-Hatem&show_icons=true&bg_color=0d1117&text_color=c9d1d9&title_color=2ec4b6&icon_color=2ec4b6&border_color=30363d&count_private=true" height="175" alt="Mohand's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mohand-Hatem&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=2ec4b6&icon_color=2ec4b6&border_color=30363d" height="175" alt="Top Languages" />
 </div>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mohand-Hatem&layout=compact&bg_color=0d1117&text_color=c9d1d9&title_color=2ec4b6&icon_color=2ec4b6&border_color=30363d" width="55%" alt="Top Languages" />
-</div>
+<p align="center" style="margin-top: 14px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohand-Hatem&theme=dark&background=0d1117&border=30363d&stroke=2ec4b6&ring=2ec4b6&fire=2ec4b6&currStreakLabel=2ec4b6&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=c9d1d9" height="175" alt="Mohand's Streak Stats" />
+</p>
 
 ---
 
