@@ -40,6 +40,7 @@
   <a href="https://react.dev/" title="React — Declarative Component Architecture"><img src="https://skillicons.dev/icons?i=react" width="52" height="52" alt="React" style="margin: 6px;" /></a> &nbsp;&nbsp;
   <a href="https://nextjs.org/" title="Next.js — Full-Stack React Framework & SSR"><img src="https://skillicons.dev/icons?i=nextjs" width="52" height="52" alt="Next.js" style="margin: 6px;" /></a> &nbsp;&nbsp;
   <a href="https://angular.dev/" title="Angular — Comprehensive Web Platform"><img src="https://skillicons.dev/icons?i=angular" width="52" height="52" alt="Angular" style="margin: 6px;" /></a> &nbsp;&nbsp;
+  <a href="https://tanstack.com/query/latest" title="TanStack Query — Powerful Asynchronous State Management & Server Cache"><img src="https://raw.githubusercontent.com/Mohand-Hatem/Mohand-Hatem/main/assets/react-query.svg" width="52" height="52" alt="TanStack Query" style="margin: 6px;" /></a> &nbsp;&nbsp;
   <a href="https://tailwindcss.com/" title="Tailwind CSS — Rapid Modern Utility Styling"><img src="https://skillicons.dev/icons?i=tailwind" width="52" height="52" alt="Tailwind CSS" style="margin: 6px;" /></a> &nbsp;&nbsp;
   <a href="https://www.figma.com/" title="Figma — Interface & Prototyping Design"><img src="https://skillicons.dev/icons?i=figma" width="52" height="52" alt="Figma" style="margin: 6px;" /></a>
 </p>
