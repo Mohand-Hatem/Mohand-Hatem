@@ -17,8 +17,8 @@
 
 ### 👨‍💻 About Me
 
-- 💻 **Full Stack & AI Engineer** building modern web apps and AI-powered systems end to end.
-- 🧠 Deep into **LLM integration, RAG, AI Agents** and workflow automation (LangChain, Pinecone, n8n).
+**Full Stack & AI Engineer** specializing in the design and delivery of scalable, production-grade web applications. Experienced across the full software lifecycle, from system architecture and secure API development to high-quality user interfaces, with a focus on integrating LLMs, RAG pipelines and AI agents into real-world products.
+
 - 🌱 Currently strengthening high-performance backend systems with **Go**, alongside Node.js/Express/NestJS.
 - 🎓 **Full-Stack Web & Generative AI (MEA|RN)** — ITI, Sohag (2025 – 2026).
 - 🎓 **B.Sc. Computer Science** — Assiut University, Egypt (GPA 3.38).
