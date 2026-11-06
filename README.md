@@ -87,9 +87,10 @@
 
 | Project | Tech Stack | Highlights |
 | :--- | :--- | :--- |
+| [**Veyro**](https://github.com/Mohand-Hatem/Veyro) | `NestJS` `Next.js` `Prisma` `PostgreSQL` `Stripe` | **Multi-Tenant Project Management SaaS** — Private team workspaces, a rule-enforced Kanban board with RBAC, and an AI assistant that asks before it acts. Bilingual (EN/AR). [Live demo](https://veyro-workspace-app.vercel.app) |
+| [**Murafiq**](https://github.com/Mohand-Hatem/Murafiq) | `Node.js` `Express` `MongoDB` `BullMQ` `Gemini` `RAG` | **AI-Powered Stylist Marketplace** — Connects clients with verified personal stylists through bookings, real-time chat, Paymob payments with an escrow ledger, and an LLM + RAG stylist assistant. |
 | [**Aventra**](https://github.com/Mohand-Hatem/Aventra) | `Next.js` `LangChain` `RAG` `Pinecone` `Go` | **AI-Powered Recruitment Platform** — Intelligent candidate semantic search, automated ATS scoring, and bilingual (EN/AR) RTL job matching. |
-| [**Echo**](https://github.com/Mohand-Hatem/Echo) | `React` `Node.js` `Socket.IO` `MongoDB` | **Real-Time Communication App** — Instant bi-directional messaging, media sharing, active presence states, and Arcjet security. |
-| [**Nights App**](https://github.com/Mohand-Hatem/Nights-App) | `MERN` `Stripe` `OAuth` `Framer Motion` | **Full CMS Streaming Platform** — Production-ready movie management system with RBAC admin controls, Stripe subscriptions, and fluid motion UI. |
+| [**Tello**](https://github.com/Mohand-Hatem/Tello-ChatApp) | `React` `Node.js` `Socket.IO` `MongoDB` | **Real-Time Chat App** — Instant messaging with live reactions, JWT auth over HttpOnly cookies, Cloudinary media uploads, and Arcjet rate limiting. |
 
 ---
 
