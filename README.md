@@ -17,13 +17,9 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td>
-      <b>Full Stack &amp; AI Engineer</b> specializing in the design and delivery of scalable, production-grade web applications. Experienced across the full software lifecycle, from system architecture and secure API development to high-quality user interfaces, with a focus on integrating LLMs, RAG pipelines and AI agents into real-world products.
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohand-Hatem/Mohand-Hatem/main/assets/about-me.svg" width="100%" alt="Full Stack &amp; AI Engineer specializing in the design and delivery of scalable, production-grade web applications. Experienced across the full software lifecycle, from system architecture and secure API development to high-quality user interfaces, with a focus on integrating LLMs, RAG pipelines and AI agents into real-world products." />
+</p>
 
 - 🌱 Currently strengthening high-performance backend systems with **Go**, alongside Node.js/Express/NestJS.
 - 🎓 **Full-Stack Web & Generative AI (MEA|RN)** — ITI, Sohag (2025 – 2026).
